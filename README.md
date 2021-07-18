@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trigger007&theme=tokyonight" />
 
+<p align="center">
+<br>
+
+<a href="https://www.linkedin.com/in/aditya-singh-2aa9131b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamadityasingh11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
+
+</p>
+<br>
+<p align="center">
+Visitor count<br><img src="https://profile-counter.glitch.me/trigger007/count.svg" /></p>
 
 
 [instagram]: https://www.instagram.com/iamadityasingh11/
