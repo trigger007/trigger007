@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-singh-2aa9131b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/iamadityasingh11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aditya1999nov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"  height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/aditya1999nov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg"  height="30" width="40" /></a>
+  <a href="https://leetcode.com/aditya1999nov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"  height="30" width="40" /></a>
 </p>
+
+
 <br>
 <p align="center">
 Visitor count<br><img src="https://profile-counter.glitch.me/trigger007/count.svg" /></p>
