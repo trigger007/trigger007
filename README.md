@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trigger007&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trigger007&theme=dark)](https://git.io/streak-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trigger007&theme=tokyonight" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trigger007)](https://git.io/streak-stats)
+
 
 [instagram]: https://www.instagram.com/iamadityasingh11/
 [linkedin]: https://www.linkedin.com/in/aditya-singh-2aa9131b3/
