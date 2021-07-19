@@ -4,8 +4,8 @@
 
 ![giphy](https://raw.githubusercontent.com/trigger007/trigger007/master/write.gif)
 
-:computer: I am a Python Developer studying at Vellore Institute of Technology
-:v: I like watching movies, shows, listening to music and constantly learning/improving my skills
+- :computer: I am a Python Developer studying at Vellore Institute of Technology
+- :v: I like watching movies, shows, listening to music and constantly learning/improving my skills
 
 <!--
 **trigger007/trigger007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
