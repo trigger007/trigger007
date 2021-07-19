@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Aditya Singh
-#Let me write something quick
+## Let me write something quick
+<hr>
 ![giphy](https://raw.githubusercontent.com/trigger007/trigger007/master/write.gif)
 
 :computer: I am a Python Developer studying at Vellore Institute of Technology
