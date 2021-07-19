@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Aditya Singh
+#Let me write something quick
+![giphy](https://raw.githubusercontent.com/trigger007/trigger007/write.gif)
+
+:computer: I am a Python Developer studying at Vellore Institute of Technology
+:v: I like watching movies, shows, listening to music and constantly learning/improving my skills
 
 <!--
 **trigger007/trigger007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
