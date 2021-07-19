@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Aditya Singh
 #### Let me write something quick
-<hr>
-<p>
+
+
 ![giphy](https://raw.githubusercontent.com/trigger007/trigger007/master/write.gif)
-</p>
+
 :computer: I am a Python Developer studying at Vellore Institute of Technology
 :v: I like watching movies, shows, listening to music and constantly learning/improving my skills
 
