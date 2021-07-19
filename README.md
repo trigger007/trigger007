@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="left" alt="trigger007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trigger007&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trigger007&theme=tokyonight)](https://git.io/streak-stats)
+<img align="right" alt="trigger007's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=trigger007&theme=tokyonight>
 
 
 
-
+</p>
 
 <br>
 <p align="center">
