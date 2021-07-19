@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats:
+<div align="center">
+  <a href="https://github.com/trigger007">
+    <img src="https://github-readme-stats.vercel.app/api?username=trigger007&count_private=true&show_icons=true&theme=dark&hide_border=true" width="49%" >
+  </a>
+  <a href="https://github.com/trigger007">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=trigger007&theme=dark&hide_border=true" width="49%" >
+  </a>
+</div>
 
-<p align="center">
-<img align="left" alt="trigger007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trigger007&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
-
-<img align="right" alt="trigger007's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=trigger007&theme=tokyonight>
-
-
-
-</p>
 
 <br>
 <p align="center">
