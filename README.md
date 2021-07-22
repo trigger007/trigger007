@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/aditya1999nov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"  height="30" width="40" /></a>
 </p>
 
-
+<hr>
 <br>
 <p align="center">
 Visitor count<br><img src="https://profile-counter.glitch.me/trigger007/count.svg" /></p>
